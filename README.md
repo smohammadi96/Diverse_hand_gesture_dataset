@@ -22,6 +22,6 @@ This dataset contains 8 hand gestures that can be used in daily communication.
 
 R.Rastgoo  [GitHub](htt)  [Email](https:)
 
-A.Akhavanpour [GitHub](https://github.com/Alireza-Akhavan/)  [Email](https://akhavan@shenasa-ai.ir)
+A.Akhavanpour [GitHub](https://github.com/Alireza-Akhavan/)  [Email](https://akhavan@shenasa-ai.ir) [Scholar](https://scholar.google.com/citations?user=u3EPfZcAAAAJ&hl=en) 
 
-M.Sabokrou [GitHub](https://github.com/Sabokrou/) [Email](https:/)
+M.Sabokrou [GitHub](https://github.com/Sabokrou/) [Email](https:/) [Scholar](https://scholar.google.com/citations?user=jqHXvT0AAAAJ&hl=en)
