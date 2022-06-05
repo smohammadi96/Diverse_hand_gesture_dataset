@@ -1,5 +1,8 @@
 # Diverse_hand_gesture_dataset
 
+This dataset contains 8 hand gestures that can be used in daily communication. 
+
+
 | state of the art Title  | year | task | links | public
 | --- | --- | --- | --- | --- |
 | SimplePose | AAAI 2020 | Pose Estimation | https://github.com/hellojialee/Improved-Body-Parts https://arxiv.org/abs/1911.10529 | yes
@@ -11,3 +14,11 @@
 | Obman	| CVPR 2019 | Joint Reconstruction of Hands and Manipulated Objects	|	https://github.com/hassony2/obman_train https://arxiv.org/abs/1904.05767 https://hassony2.github.io/obman | yes
 | Openpose | IEEE TRANSACTIONS 2018 | Hand and body pose estimation	|	https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_installation_0_index.html https://arxiv.org/abs/1812.08008 | yes
 
+
+# Contacts:
+
+R.Rastgoo
+
+A.Akhavanpour
+
+M.Sabokrou
