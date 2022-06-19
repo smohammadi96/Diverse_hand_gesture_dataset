@@ -2,7 +2,13 @@
 
 This dataset contains 8 hand gestures that can be used in daily communication. 
 
+In the following table, there is detail information about this dataset.
+| - | Number of men | Number of women | Age Range Women | Age Range men | Total images
+| --- | --- | --- | --- | --- | --- |
+| Train set | 22 | 15 | 18-30 | 22-45 | 6400
+| Test set | 6 | 6 | 23-28 | 23-35 | 1590 
 
+In the following table, interduced some SOTA that have bad results on this dataset.
 | state of the art Title  | year | task | links | public
 | --- | --- | --- | --- | --- |
 | SimplePose | AAAI 2020 | Pose Estimation | https://github.com/hellojialee/Improved-Body-Parts https://arxiv.org/abs/1911.10529 | yes
