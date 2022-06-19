@@ -26,8 +26,10 @@ In the following table, interduced some SOTA that have bad results on this datas
 
 # Contacts:
 
-R.Rastgoo  [GitHub](https://github.com/razirastgoo?tab=repositories)  [Email](razirastgoo@gmail.com)
+Z.Mohammadi Email:smohammadi7175@gmail.com
 
-A.Akhavanpour [GitHub](https://github.com/Alireza-Akhavan/)  [Email](akhavan@shenasa.ai) [Scholar](https://scholar.google.com/citations?user=u3EPfZcAAAAJ&hl=en) 
+R.Rastgoo  [GitHub](https://github.com/razirastgoo?tab=repositories)  Email:razirastgoo@gmail.com
 
-M.Sabokrou [GitHub](https://github.com/Sabokrou/) [Email](https:/) [Scholar](https://scholar.google.com/citations?user=jqHXvT0AAAAJ&hl=en)
+A.Akhavanpour [GitHub](https://github.com/Alireza-Akhavan/) [Scholar](https://scholar.google.com/citations?user=u3EPfZcAAAAJ&hl=en) Email:akhavan@shenasa.ai
+
+M.Sabokrou [GitHub](https://github.com/Sabokrou/)  [Scholar](https://scholar.google.com/citations?user=jqHXvT0AAAAJ&hl=en) Email:sabokro@ipm.ir
