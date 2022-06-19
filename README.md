@@ -2,7 +2,7 @@
 
 This dataset contains 8 hand gestures that can be used in daily communication. 
 
-In the following table, there is detail information about this dataset.
+In the following table, there is some detail information about this dataset.
 | - | Number of men | Number of women | Age Range Women | Age Range men | Total images
 | --- | --- | --- | --- | --- | --- |
 | Train set | 22 | 15 | 18-30 | 22-45 | 6400
