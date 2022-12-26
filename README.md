@@ -24,7 +24,7 @@ In the following table, interduced some SOTA that have bad results on this datas
 
 [hand gesture demo](http://shenasa.ai/service/59/hand-gesture-recognition)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/smohammadi96/Diverse_hand_gesture_dataset/blob/main/results/demo.PNG)
 
 # Contacts:
 
