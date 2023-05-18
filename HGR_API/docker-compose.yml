@@ -1,0 +1,23 @@
+version: '3.2'
+services:
+        hand-gesture-api:
+                build: .
+                image: shenasaface/shenasaface:api_hand_gesture
+                command: gunicorn --timeout 500000 --bind 0.0.0.0:6004 main:app
+                restart: always
+
+        webserver: 
+                build: ./nginx
+                image: shenasaface/shenasaface:api_hand_gesture_webserver
+                restart: always
+                depends_on:
+                        - hand-gesture-api
+                ports:
+                        - 6004:80
+
+        gesture_ex:              
+                image: shenasaface/shenasaface:gesture_model 
+                ports:
+                        - 8501:8501
+                        - 8500:8500
+
