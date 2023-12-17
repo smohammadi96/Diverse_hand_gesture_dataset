@@ -27,7 +27,7 @@ In the following table, interduced some SOTA that have bad results on this datas
 ![alt text](https://github.com/smohammadi96/Diverse_hand_gesture_dataset/blob/main/results/demo.PNG)
 
 # Download Links
-[hand gesture dataset](http://shenasa-ai.ir/Diverse_hand_gesture_dataset.zip) | 
+[hand gesture dataset](http://shenasa-ai.ir/Diverse_hand_gesture_dataset.zip)
 
 
 # Contact:
