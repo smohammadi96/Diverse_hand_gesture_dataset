@@ -33,5 +33,12 @@ In the following table, interduced some SOTA that have bad results on this datas
 # Contact:
 
 Email: smohammadi7175@gmail.com
-
-
+'
+@article{mohammadi2023diverse,
+  title={Diverse hand gesture recognition dataset},
+  author={Mohammadi, Zahra and Akhavanpour, Alireza and Rastgoo, Razieh and Sabokrou, Mohammad},
+  journal={Multimedia Tools and Applications},
+  pages={1--23},
+  year={2023},
+  publisher={Springer}
+}'
